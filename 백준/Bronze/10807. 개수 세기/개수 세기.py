@@ -1,0 +1,5 @@
+N = input()
+li = input().split()
+# print(li)
+v = li.count(input())
+print(v)
