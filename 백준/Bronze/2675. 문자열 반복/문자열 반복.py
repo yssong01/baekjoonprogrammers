@@ -12,5 +12,5 @@ for _ in range(T):
     repstr = ''
     for i in S:
         #print(i)
-        repstr = repstr + i*R # 문자열 반복 : 'S'*2 = 'SS'
+        repstr = repstr + i*R # 문자열 반복 : 'a'*2 = 'aa'
     print(repstr) 
